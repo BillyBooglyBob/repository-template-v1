@@ -4,10 +4,7 @@
         "commonjs": true,
         "es2021": true
     },
-    "extends": [
-        "some-other-config-you-use",
-        "prettier"
-    ],
+    "extends": "airbnb-base",
     "parserOptions": {
         "ecmaVersion": "latest"
     },
